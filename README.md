@@ -11,7 +11,11 @@ used to sense the current and display it on internet using IoT. The system updat
 1 to 2 seconds on the internet MQTT webpage.
 
 -Demand of electricity on the distribution side is more than the transmission side.
+
 -Avoiding of misuse of energy..
+
 -To develop an IoT based system.
+
 -Energy Consumption is monitoring and controlling
+
 -in case any misuse of electricity we can controlle.
