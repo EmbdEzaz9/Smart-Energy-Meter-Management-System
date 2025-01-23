@@ -16,6 +16,6 @@ used to sense the current and display it on internet using IoT. The system updat
 
 -To develop an IoT based system.
 
--Energy Consumption is monitoring and controlling
+-Energy Consumption is monitoring and controlling.
 
 -in case any misuse of electricity we can controlle.
